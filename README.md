@@ -1,1 +1,3 @@
 # LangChain-in-Action-LLM-Applications-with-RAG-and-Agents
+
+LangChain is an open-source framework designed to simplify the deployment of large language models (LLMs) in production. It offers a model-agnostic toolkit that allows developers to experiment with various LLMs through a unified interface, facilitating easy integration with multiple providers without extensive code changes. The notebook showcases diverse use cases, including chat models, prompt templates, memory management, and chains. Additionally, it highlights Retrieval Augmented Generation (RAG) and the implementation of intelligent agents for Multi-Doc-Chatbot. This makes LangChain a versatile tool for building robust applications using LLMs.
